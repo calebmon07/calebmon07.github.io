@@ -1,0 +1,16 @@
+p {
+text-align: center; color: crimson;
+ } 
+ body {
+background: lightgoldenrodyellow;
+font-family:serif;
+margin: 40px;
+ }
+ h1 {
+text-align: center;
+color: #6f7bfc;
+}
+
+.about {
+background: #000000;
+}
