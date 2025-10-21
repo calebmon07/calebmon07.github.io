@@ -17,7 +17,7 @@ background: #000000;
 
 .projects { display:flex; flex-wrap:wrap; } 
 .project {
-width: 30%;
+width: 100%;
 margin: 10px;
 padding: 20px 10px;
 background: white; 
