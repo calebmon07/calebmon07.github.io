@@ -16,6 +16,7 @@ color: #6f7bfc;
 .about {
   background: #8893a6; 
   font-size: x-large;
+  color: #000000;
 }
 
 .project img{
@@ -43,6 +44,7 @@ object-fit: cover;
   padding: 20px;
   text-align: center;
   width: 400px;
+  color: #000000;
 }
 
 
