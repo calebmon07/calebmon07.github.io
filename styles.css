@@ -1,5 +1,7 @@
 p {
-text-align: center; color: crimson;
+color: #6f7bfc;
+text-align: center; 
+font-size: large;
  } 
  body {
 background: lightgoldenrodyellow;
@@ -12,7 +14,7 @@ color: #6f7bfc;
 }
 
 .about {
-background: #000000;
+  background: #8893a6; 
 }
 
 .project img{
