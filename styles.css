@@ -1,5 +1,5 @@
 p {
-color: #6f7bfc;
+color: #000000;
 text-align: center; 
 font-size: large;
  } 
@@ -15,6 +15,7 @@ color: #6f7bfc;
 
 .about {
   background: #8893a6; 
+  font-size: x-large;
 }
 
 .project img{
